@@ -30,9 +30,11 @@ The `model.py` file defines the neural network architectures used in this projec
 ---
 
 ## Dataset
-This project requires a dataset of retinal images and their corresponding ground truth segmentation masks. The data should be organized into the following directory structure:
+The datasets of the fundus images can be acquired from:
 
-
+HRF
+DRIVE
+STARE
 ---
 
 
