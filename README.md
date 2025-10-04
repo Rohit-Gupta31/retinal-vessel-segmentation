@@ -60,8 +60,8 @@ To set up the environment and run this project, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Rohit-Gupta31/retinal-vessel-segmentation.git](https://github.com/Rohit-Gupta31/retinal-vessel-segmentation.git)
+    cd retinal-vessel-segmentation
     ```
 
 2.  **Create a `requirements.txt` file** with the following content:
