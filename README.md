@@ -44,15 +44,14 @@ This section showcases the performance of the trained models on the test dataset
 | Model          | Average Accuracy | Mean IoU  |
 | -------------- | ---------------- | --------- |
 | U-Net          | **95.49%**       | **0.751** |
-| Residual U-Net | **95.70**        | **0.763** |
+| Residual U-Net | **95.70%**       | **0.763** |
 
 
 #### Segmentation Examples
 
 Below is a sample prediction from the test set, showing the original image, the preprocessed input, the ground truth mask, and the mask predicted by the model.
 
-![Segmentation Result]
-(<img width="6873" height="4281" alt="test_image_4views" src="https://github.com/user-attachments/assets/fd2605d5-a52e-4d01-927f-3e3ec7b5a82d" />)
+<img width="6000" height="2000" alt="test_image_4views" src="https://github.com/user-attachments/assets/fd2605d5-a52e-4d01-927f-3e3ec7b5a82d" />
 
 ---
 
