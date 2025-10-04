@@ -32,9 +32,9 @@ The `model.py` file defines the neural network architectures used in this projec
 ## Dataset
 The datasets of the fundus images can be acquired from:
 
-HRF
-DRIVE
-STARE
+1. HRF
+2. DRIVE
+3. STARE
 ---
 
 
